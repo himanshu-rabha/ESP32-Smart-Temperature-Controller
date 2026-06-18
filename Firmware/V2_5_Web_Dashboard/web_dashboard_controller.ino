@@ -5,8 +5,8 @@
 
 // ---------------- WIFI ----------------
 
-const char* ssid = "Nayanjyoti_";
-const char* password = "password2024";
+const char* ssid = "Your_wifi_name";
+const char* password = "Your_wifi_password";
 
 // ---------------- PINS ----------------
 

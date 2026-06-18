@@ -1,8 +1,8 @@
 
 
-#define BLYNK_TEMPLATE_ID "TMPL3bvTJEkGo"
+#define BLYNK_TEMPLATE_ID "Your_template_id"
 #define BLYNK_TEMPLATE_NAME "ESP32 Temperature Controller V2"
-#define BLYNK_AUTH_TOKEN "6nvA2DYOuMa5CkzTqncA_SZrwF5SEcAk"
+#define BLYNK_AUTH_TOKEN "Your_auth_token"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -10,8 +10,8 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
-char ssid[] = "Nayanjyoti_";
-char pass[] = "password2024";
+char ssid[] = "Your_wifi_password";
+char pass[] = "Your_password";
 
 #define ONE_WIRE_BUS 15
 #define RELAY_PIN 26
